@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jilow/root-nodejs.svg?branch=master)](https://travis-ci.org/jilow/root-nodejs)
+
 # root-nodejs
 
 Node.js client library for using Root API. The full api documentation can be found [here](https://app.root.co.za/docs/insurance/api).
