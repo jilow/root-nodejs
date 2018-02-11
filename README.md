@@ -19,12 +19,16 @@ yarn add jilow/root-nodejs
 
 In your code:
 ```javascript
+// ES modules
 import * as Root from 'root-nodejs'
+// CommonJS 
+const Root = require('root-nodejs')
 
 const client = new Root.InsuranceAPI(APP_ID, APP_TOKEN)
 
 const gadgetModels = await client.listGadgetModels()
 ```
+
 
 See the [wiki](https://github.com/jilow/root-nodejs/wiki) for further usage examples.
 
