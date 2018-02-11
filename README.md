@@ -15,6 +15,7 @@ npm i jilow/root-nodejs
 yarn add jilow/root-nodejs
 ```
 
+In your code:
 ```javascript
 import * as Root from 'root-nodejs'
 
