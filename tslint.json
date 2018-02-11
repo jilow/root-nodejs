@@ -1,0 +1,11 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "quotemark": [true, "single"],
+    "semicolon": false,
+    "triple-equals": [true, "allow-null-check"],
+    "no-console": false,
+    "object-literal-sort-keys": false,
+    "variable-name": [true, "check-format", "allow-snake-case"]
+  }
+}
